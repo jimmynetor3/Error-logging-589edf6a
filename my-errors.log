@@ -1,0 +1,4 @@
+Exception: Er is een fout opgetreden! in C:\Users\31612\Documents\bit academy\jimmy's bit\exercises\module 4\level 3\Error-logging-589edf6a\my_error.php:18
+Stack trace:
+#0 C:\Users\31612\Documents\bit academy\jimmy's bit\exercises\module 4\level 3\Error-logging-589edf6a\my_error.php(21): {closure}(2, 'Division by zer...', 'C:\\Users\\31612\\...', 21, Array)
+#1 {main}
